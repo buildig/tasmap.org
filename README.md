@@ -10,7 +10,7 @@ The map supports GeoServer WMS/WFS and ESRI REST services. If you have one and w
 *   [Glenorchy City Council](https://maps.gcc.tas.gov.au)
 *   [City of Launceston.](http://www.launceston.tas.gov.au/lcc/)
 
-## Who did this?!
+## Who did this?
 
 This mapping system was put together by Alex Leith for GovHack 2016\. You can contact him at [alexgleith (at) gmail.com](mailto://alexgleith@gmail.com)
 
